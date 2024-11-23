@@ -2,7 +2,7 @@
 
 Uma ferramenta com interface gráfica para download automático de mods e suas dependências para o jogo Factorio.
 
-![Exemplo da Interface](https://re146.dev/images/logo.png)
+![Exemplo da Interface](https://github.com/KingDasWinx/Factorio-Mod-Downloader/blob/main/image.png)
 
 ## Funcionalidades
 
@@ -92,4 +92,4 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## Autor
 
-Seu Nome - [Seu GitHub](https://github.com/seu-usuario)
+João Moreira - [KingDasWinx](https://github.com/KingDasWinx)
